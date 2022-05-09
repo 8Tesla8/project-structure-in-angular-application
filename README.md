@@ -1,27 +1,14 @@
-# AngularProject
+# Usual structure
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+![](pic/usual.png)
 
-## Development server
+# Page structure
+Structure is build arount web page and components that are  on the page. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![](pic/page.png)
 
-## Code scaffolding
+# Shared structure
+Structure in shared folder we build around busninses logic and components.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![](pic/shared.png)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
